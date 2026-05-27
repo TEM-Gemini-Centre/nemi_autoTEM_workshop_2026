@@ -11,3 +11,11 @@ This year’s workshop will focus on how to collect and analyze (big) data in tr
 For the 3D ED structure solution and refinement session on Tuesday June 2, the programs PETS2 and JANA should be installed. Windows computer is required. The installation files can be downloaded from the following filesender link within June 12th 2026. 
 PETS website: https://pets.fzu.cz/
 JANA website: https://jana.fzu.cz/
+
+### Python installation instructions
+
+See the file `python_installation_instructions.pdf`
+
+## Datasets
+
+The datasets for the Python sessions on Wednesday and Thursday, scroll down and click "Download all": https://zenodo.org/records/20411896
